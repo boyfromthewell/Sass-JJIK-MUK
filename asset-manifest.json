@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sass-JJIK-MUK/static/css/main.c98485b8.chunk.css",
+    "main.js": "/Sass-JJIK-MUK/static/js/main.70ce69a1.chunk.js",
+    "main.js.map": "/Sass-JJIK-MUK/static/js/main.70ce69a1.chunk.js.map",
+    "runtime-main.js": "/Sass-JJIK-MUK/static/js/runtime-main.a9ca43ab.js",
+    "runtime-main.js.map": "/Sass-JJIK-MUK/static/js/runtime-main.a9ca43ab.js.map",
+    "static/js/2.7c1abaaa.chunk.js": "/Sass-JJIK-MUK/static/js/2.7c1abaaa.chunk.js",
+    "static/js/2.7c1abaaa.chunk.js.map": "/Sass-JJIK-MUK/static/js/2.7c1abaaa.chunk.js.map",
+    "static/js/3.ff6afa97.chunk.js": "/Sass-JJIK-MUK/static/js/3.ff6afa97.chunk.js",
+    "static/js/3.ff6afa97.chunk.js.map": "/Sass-JJIK-MUK/static/js/3.ff6afa97.chunk.js.map",
+    "index.html": "/Sass-JJIK-MUK/index.html",
+    "static/css/main.c98485b8.chunk.css.map": "/Sass-JJIK-MUK/static/css/main.c98485b8.chunk.css.map",
+    "static/js/2.7c1abaaa.chunk.js.LICENSE.txt": "/Sass-JJIK-MUK/static/js/2.7c1abaaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9ca43ab.js",
+    "static/js/2.7c1abaaa.chunk.js",
+    "static/css/main.c98485b8.chunk.css",
+    "static/js/main.70ce69a1.chunk.js"
+  ]
+}
